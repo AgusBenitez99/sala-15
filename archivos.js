@@ -1,1 +1,1 @@
-console.log("tipos de archivos");
+console.log("tipos de funciones,arrays,variables");
